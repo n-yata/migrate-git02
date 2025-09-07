@@ -1,8 +1,10 @@
 ## Git リポジトリの移行検討
 
-一度だけの移行で実施する。過去のリモートリポジトリは利用できなくなる
-
-全ブランチの情報も移行する。
+一度だけの移行で実施する。過去のリモートリポジトリは利用できなくなる  
+全ブランチの情報も移行する。  
+git-filter-repo を利用する  
+https://raw.githubusercontent.com/newren/git-filter-repo/main/git-filter-repo  
+$ pip install git-filter-repo
 
 - 操作コマンド
 
