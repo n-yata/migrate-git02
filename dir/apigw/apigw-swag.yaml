@@ -1,0 +1,5 @@
+path:
+  to:
+    file: dir/apigw/apigw-swag.yaml
+  type: file
+  content: |  openapi: 3.0.1  
