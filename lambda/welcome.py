@@ -1,5 +1,7 @@
 import requests
 
+print("hello, welcome!")
+
 def get_weather_open_meteo(lat=35.6895, lon=139.6917, timezone="Asia/Tokyo"):
     url = (
         "https://api.open-meteo.com/v1/forecast"
